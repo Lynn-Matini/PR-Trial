@@ -1,0 +1,8 @@
+New update
+
+- Added a new feature to the app
+- Fixed a bug in the app
+- Improved the app's performance
+- Updated the app's documentation
+
+
